@@ -1,0 +1,13 @@
+flutter_launcher_icons:
+  image_path: "assets/images/icon.png"  # A helyes útvonal az ikonhoz
+
+  android: true  # Android rendszerhez generálunk ikont
+  ios: true      # iOS rendszerhez generálunk ikont
+
+  # A következő platformok generálását kikapcsoljuk:
+  web:
+    generate: false  # Web ikon generálás kikapcsolva
+  windows:
+    generate: false  # Windows ikon generálás kikapcsolva
+  macos:
+    generate: false  # macOS ikon generálás kikapcsolva

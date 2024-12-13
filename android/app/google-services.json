@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "350462276580",
+    "project_id": "toprank-46653",
+    "storage_bucket": "toprank-46653.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:350462276580:android:67d87eefe937ff7e85cdf1",
+        "android_client_info": {
+          "package_name": "com.example.rankapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAPEtAD87wQnMCkBHwULKRbv_i47kVCmw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:350462276580:android:4f52d4f3d134aa7e85cdf1",
+        "android_client_info": {
+          "package_name": "com.example.ranker"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAPEtAD87wQnMCkBHwULKRbv_i47kVCmw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
